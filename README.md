@@ -26,7 +26,7 @@ in the field, aimed at precision-agriculture deployment.
 | **[Pandas Assistant](https://github.com/ZiAd-MoHaMeD-4/pandas-assistant)** | A fully offline RAG assistant over the pandas docs — answers with citations, refuses out-of-scope questions, runs on sub-1B local models | LangChain · Chroma · Ollama · Streamlit |
 | **[3D Generation Pipeline](https://github.com/ZiAd-MoHaMeD-4/3D-Generation-Pipeline)** | Text/image → 3D mesh pipeline built on threestudio: Stable Diffusion guidance, DreamFusion + NeRF representation, SDS optimisation, mesh export | PyTorch · threestudio · NeRF |
 | **[Virtual Painter](https://github.com/ZiAd-MoHaMeD-4/Virtual-Painter-Hand-Tracking)** | Real-time drawing driven by hand-landmark tracking from a webcam feed | Python · MediaPipe · OpenCV |
-| **[CityWalk Dashboard](https://github.com/ZiAd-MoHaMeD-4/citywalk-dashboard)** | Interactive project dashboard | HTML · JS |
+| **[Supplement Store Management](https://github.com/ZiAd-MoHaMeD-4/Supplement-Store-Managment-System)** | Desktop inventory and sales system over a SQLite database | Python · SQLite · Tkinter |
 
 ---
 
