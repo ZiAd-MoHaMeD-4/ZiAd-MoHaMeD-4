@@ -1,7 +1,8 @@
-# Ziad Alboghdadi
+﻿# Ziad Alboghdadi
 
-**Data Scientist & Applied Machine Learning Engineer** · Data Science intern @ CORELIA
-Misr Higher Institute for Engineering and Technology
+**Data Scientist & Applied Machine Learning Engineer**
+
+Data Science intern @ CORELIA · Misr Higher Institute for Engineering and Technology
 
 I build end-to-end AI systems — from data cleaning and feature engineering through model
 training and evaluation, to deployment behind an API. Most of my work lands in computer
@@ -32,10 +33,10 @@ in the field, aimed at precision-agriculture deployment.
 
 ## 🛠 Tech
 
-**Languages** Python · SQL · C# · JavaScript
-**ML/DL** PyTorch · scikit-learn · YOLO · OpenCV · MediaPipe
-**Data** Pandas · NumPy · Matplotlib · Seaborn
-**LLM / RAG** LangChain · Chroma · Ollama
+**Languages** Python · SQL · C# · JavaScript  
+**ML/DL** PyTorch · scikit-learn · YOLO · OpenCV · MediaPipe  
+**Data** Pandas · NumPy · Matplotlib · Seaborn  
+**LLM / RAG** LangChain · Chroma · Ollama  
 **Other** FastAPI · Node.js · PostgreSQL · Git
 
 ---
